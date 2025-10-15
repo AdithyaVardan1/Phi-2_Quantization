@@ -1,6 +1,6 @@
 # Quantization and Fine-Tuning of SLMs for Edge Deployment
 
-This project explores techniques for efficiently running Speech Language Models (SLMs) on resource-constrained edge devices, such as the Microsoft Phi-2 model. The focus is on achieving both high accuracy and low computational footprint through quantization and fine-tuning.
+This project explores techniques for efficiently running Small Language Models (SLMs) on resource-constrained edge devices, such as the Microsoft Phi-2 model. The focus is on achieving both high accuracy and low computational footprint through quantization and fine-tuning.
 
 ## Techniques Investigated:
 
